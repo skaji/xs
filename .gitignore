@@ -8,3 +8,6 @@ blib/
 pm_to_blib
 Makefile
 Makefile.old
+_build/
+Build
+Build.old
